@@ -1,9 +1,7 @@
 # DSA-Visualization
 A Web-app which visualizes and traces the basic data structures and algorithms.
 
-Its deployed live!
 
-Check it out here : http://just2test.in/jay/algo/
 
 
 
